@@ -25,7 +25,7 @@
 
 <body>
 
-@include('layouts.loading')
+@include('components.loading')
 
 <div class="page-wraper">
 

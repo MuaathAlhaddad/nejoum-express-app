@@ -6,7 +6,7 @@ template.
 This files [Table of contents] are outlined below
 ---------------------------------------------------
 ** - ========================
-	 GENERAL 
+	 GENERAL
 	 ========================
 ** - Title separators
 ** - Center title
@@ -2473,7 +2473,7 @@ ol li {
 }
 
 /*-------------------------------------
-	Tabs 
+	Tabs
 -------------------------------------*/
 /*Tabs style 1 [ default ] */
 .wt-tabs .tab-pane {
@@ -8659,6 +8659,15 @@ select {
   display: block;
   font-size: 140px;
   color: #ff8a00;
+}
+
+@media (max-width: 1366px) {
+  .twm-slider2-wrap .h-banner-wrap .h-banner-left .h-bnr-top h2 {
+    font-size: 70px;
+  }
+  .twm-slider2-wrap .h-banner-wrap .h-banner-left .h-bnr-top h2 span {
+    font-size: 80px;
+  }
 }
 
 @media (max-width: 1199px) {

@@ -8,7 +8,7 @@
                     <div class="logo-header">
                         <div class="logo-header-inner logo-header-one">
                             <a href="index.html">
-                                <img src="{{ asset('images/logo-dark.png') }}" alt="">
+                                <img src="{{ asset('images/Logo Color.png') }}" alt="">
                             </a>
                         </div>
                     </div>
@@ -25,33 +25,13 @@
                     <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
 
                         <ul class=" nav navbar-nav">
-                            <li class="has-child"><a href="javascript:;">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index-2.html">Home</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-child"><a href="javascript:;">Pages</a>
-                                <ul class="sub-menu">
-                                    <li><a href="about-1.html">About Us</a></li>
-                                    <li><a href="faq.html">Faq</a></li>
-                                    <li><a href="error-404.html">Error 404</a></li>
-                                </ul>
-                            </li>
-                            <li class="has-child"><a href="javascript:;">Services</a>
-                                <ul class="sub-menu">
-                                    <li><a href="services-1.html">Services 1</a></li>
-                                    <li><a href="services-2.html">Services 2</a></li>
-                                    <li><a href="services-detail.html">Services Detail</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="{{ route('home') }}">Home</a></li>
 
-                            <li class="has-child"><a href="javascript:;">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                    <li><a href="blog-single.html">Blog Detail</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{ route('services') }}">Services</a></li>
+
+                            <li><a href="{{ route('about') }}">About</a></li>
+
+                            <li><a href="{{ route('contact') }}">Contact</a></li>
 
                         </ul>
 
@@ -60,17 +40,10 @@
                     <!-- Header Right Section-->
                     <div class="extra-nav header-2-nav">
                         <div class="extra-cell">
-                            <div class="header-search">
-                                <a href="#search" class="header-search-icon"><i class="fa fa-search"></i></a>
-                            </div>
-                        </div>
-                        <div class="extra-cell">
                             <div class="header-nav-call-section">
-
-
                                 <div class="detail">
-                                    <span class="title">Free Call In U.S.A</span>
-                                    <span><a href="tel:29002344241">2 900 234 4241</a></span>
+                                    <span class="title">Call our number</span>
+                                    <span><a href="tel:8008888888">800 8888 888</a></span>
                                 </div>
                                 <div class="media">
                                     <img src="images/call.png" alt="#">
@@ -79,25 +52,7 @@
                         </div>
 
                     </div>
-
-
-
                 </div>
-
-
-            </div>
-
-            <!-- SITE Search -->
-            <div id="search">
-                <span class="close"></span>
-                <form role="search" id="searchform" action="/search" method="get" class="radius-xl">
-                    <input class="form-control" value="" name="q" type="search" placeholder="Type to search"/>
-                    <span class="input-group-append">
-                            <button type="button" class="search-btn">
-                                <i class="fa fa-paper-plane"></i>
-                            </button>
-                        </span>
-                </form>
             </div>
         </div>
 
