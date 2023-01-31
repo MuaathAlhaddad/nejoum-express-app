@@ -22,7 +22,5 @@
 
         @include('components.home.blog')
 
-        @include('components.home.contact')
-
     </div>
 @endsection

@@ -7,7 +7,7 @@
 
                     <div class="logo-header">
                         <div class="logo-header-inner logo-header-one">
-                            <a href="index.html">
+                            <a href="{{ route('home') }}">
                                 <img src="{{ asset('images/Logo Color.png') }}" alt="">
                             </a>
                         </div>
