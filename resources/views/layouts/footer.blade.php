@@ -1,4 +1,4 @@
-@include('components.contact')
+@include('components.contact-form')
 
 <footer class="footer-light">
 
