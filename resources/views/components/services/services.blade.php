@@ -14,27 +14,6 @@
                 <div class="services-gallery-style1">
                     <div class="row">
 
-                        <!-- COLUMNS 1 -->
-                        <div class="col-lg-4 col-md-6 mb-4">
-                            <div class="service-box-style1">
-                                <div class="service-content">
-                                    <div class="service-content-inner">
-                                        <div class="service-content-top">
-                                            <h3 class="service-title-large"><a href="{{ route('services') }}">Car Towing</a></h3>
-                                        </div>
-                                        <div class="service-content-bottom">
-                                            <span class="service-title-large-number">01</span>
-                                            <p>Towing your cars from the American Auctions through our drivers straight to our warehouses.</p>
-                                            <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="service-media">
-                                    <img src="{{ asset('images/s-gallery/10 - Services - 370 x 666 - Car Towing.png') }}" alt="">
-                                </div>
-                            </div>
-                        </div>
-
                         <!-- COLUMNS 2 -->
                         <div class="col-lg-4 col-md-6 mb-4">
                             <div class="service-box-style1">
