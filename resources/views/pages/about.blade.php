@@ -15,7 +15,7 @@
 
         @include('components.about.achieved')
 
-        @include('components.about.partners')
+        @include('components.home.clients')
 
         @include('components.about.trademarks')
 
