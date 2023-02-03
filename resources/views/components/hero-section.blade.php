@@ -1,4 +1,4 @@
-<div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/{{ $banner }});">
+<div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/{{ $banner ?? '' }});">
     <div class="overlay-main site-bg-sky opacity-08"></div>
     <div class="container">
         <div class="wt-bnr-inr-entry">

@@ -28,13 +28,13 @@
 
                                                 <div class="col-lg-8 col-md-12">
                                                     <div class="contact-form-outer">
-                                                        <form class="cons-contact-form" method="post" action="form-handler2.php">
+                                                        <form class="cons-contact-form" method="post">
 
                                                             <div class="row">
 
                                                                 <div class="col-lg-6 col-md-6">
                                                                     <div class="form-group mb-3">
-                                                                        <input name="username" type="text" required class="form-control" placeholder="Name">
+                                                                        <input name="name" type="text" required class="form-control" placeholder="Name">
                                                                     </div>
                                                                 </div>
 
@@ -75,7 +75,7 @@
                                                     <div class="contact-info  site-bg-dark bg-no-repeat bg-bottom-left" style="background-image: url(images/background/contact-bg.png);">
                                                         <!-- TITLE START-->
                                                         <div class="section-head-small white mb-4">
-                                                            <h3 class="wt-title">Call our numbers:</h3>
+                                                            <h3 class="wt-title">Let’s Get in Touch!</h3>
                                                         </div>
                                                         <!-- TITLE END-->
 
@@ -94,8 +94,7 @@
 
                                                             <div class="c-info-column">
                                                                 <div class="c-info-icon fa fa-envelope-o"><span></span></div>
-                                                                <p>info@nejoumexpress.net</p>
-                                                                <p>support@nejoumexpress.net</p>
+                                                                <p>cs@nejoumexpress.com</p>
                                                             </div>
 
                                                         </div>

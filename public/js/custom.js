@@ -760,13 +760,13 @@ jQuery(window).on('scroll', function () {
 		var form = jQuery(this);
 		/* sending message */
 		jQuery.ajax({
-			url: 'https://thewebmax.com/Logitrago/form-handler2.php',
+			url: '/api/contact/store',
 
 			data: form.serialize() + "&action=contactform",
 			type: 'POST',
 			dataType: 'JSON',
 			beforeSend: function() {
-//				jQuery('.loading-area').show();
+				jQuery('.loading-area').show();
 			},
 
 			success:function(data){
