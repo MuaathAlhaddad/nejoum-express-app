@@ -2,11 +2,12 @@
     <div class="section-content">
         <div class="container">
 
-            <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                    <div>Our Locations World wide</div>
-                </div>
-            </div>
+            @include('components.section-title', [
+                'heading' => 'Our Locations World wide',
+                'sub_heading' => false,
+                'text' => false,
+                'alignment' => 'center'
+                ])
 
             <div class="gmap-outline mb-5">
                 <div class="google-map">

@@ -2,14 +2,12 @@
 
     <div class="container">
 
-        <!-- TITLE START-->
-        <div class="section-head center wt-small-separator-outer">
-            <div class="wt-small-separator site-text-primary">
-                <div>What we do!</div>
-            </div>
-            <h2 class="wt-title">Best Vehicle Logistics Services</h2>
-        </div>
-        <!-- TITLE END-->
+        @include('components.section-title', [
+                'heading' => 'What we do!',
+                'sub_heading' => 'Best Vehicle Logistics Services',
+                'text' => false,
+                'alignment' => 'center'
+            ])
 
         <div class="tw-what-wedo-section">
 

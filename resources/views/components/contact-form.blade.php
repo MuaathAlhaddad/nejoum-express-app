@@ -3,25 +3,21 @@
     <div class="services-gallery-block-outer3">
         <div class="container">
 
-            <!-- TITLE START-->
-            <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                    <div>Contact us</div>
-                </div>
-            </div>
-            <!-- TITLE END-->
+            @include('components.section-title', [
+                        'heading' => 'Contact us',
+                        'sub_heading' => false,
+                        'text' => false,
+                        'alignment' => 'center'
+                        ])
 
             <div class="section-content">
                 <div class="services-gallery-style3">
                     <div class="row">
-                        <div class="section-full  p-t120 p-b120">
+                        <div class="section-full  p-t50">
                             <div class="section-content">
                                 <div class="container">
 
                                     <div class="contact-one">
-                                        <div class="section-head left wt-small-separator-outer">
-                                            <h2 class="wt-title m-b30">Send Us a Message</h2>
-                                        </div>
 
                                         <div class="contact-one-inner  site-bg-sky-blue-light">
                                             <div class="row">

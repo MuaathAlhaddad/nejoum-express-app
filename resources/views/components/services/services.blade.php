@@ -3,15 +3,12 @@
     <div class="services-gallery-block-outer2">
         <div class="container">
 
-            <!-- TITLE START-->
-            <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                    <div>All services</div>
-                </div>
-                <h2 class="wt-title">Trusted For Our Services</h2>
-                <p class="section-head-text">Receive excellent vehicle logistics transportation services from the most experienced in the market..</p>
-            </div>
-            <!-- TITLE END-->
+            @include('components.section-title', [
+                'heading' => 'All services',
+                'sub_heading' => 'Trusted For Our Services',
+                'text' => 'Receive excellent vehicle logistics transportation services from the most experienced in the market..',
+                'alignment' => 'center'
+                ])
 
             <div class="section-content">
                 <div class="services-gallery-style1">

@@ -3,14 +3,12 @@
     <div class="services-gallery-block-outer3">
         <div class="container">
 
-            <!-- TITLE START-->
-            <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                    <div>Our Services</div>
-                </div>
-                <p class="section-head-text">Our aim is to optimize and improve the quality and pace of car logistics transportation and to give you the best service.</p>
-            </div>
-            <!-- TITLE END-->
+            @include('components.section-title', [
+                                    'heading' => 'Our Services',
+                                    'sub_heading' => false,
+                                    'text' => 'Our aim is to optimize and improve the quality and pace of car logistics transportation and to give you the best service.',
+                                    'alignment' => 'center'
+                                    ])
 
             <div class="section-content">
                 <div class="services-gallery-style3">

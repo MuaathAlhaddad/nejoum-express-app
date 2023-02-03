@@ -3,13 +3,14 @@
     <div class="section-content">
 
         <div class="container">
-            <!-- TITLE START-->
-            <div class="section-head center wt-small-separator-outer">
-                <div class="wt-small-separator site-text-primary">
-                    <div>Our Warehouses</div>
-                </div>
-            </div>
-            <!-- TITLE END-->
+
+            @include('components.section-title', [
+                        'heading' => 'Our Warehouses',
+                        'sub_heading' => false,
+                        'text' => false,
+                        'alignment' => 'center'
+                        ])
+
         </div>
 
         <div class="tw-project-2-content m-b30">
@@ -30,8 +31,8 @@
                                 </div>
                             </div>
                             <div class="project-new-content">
-                                <span class="project-new-category">Warehousing, Booking</span>
                                 <h4 class="wt-title"><a href="{{ route('services') }}">Texas</a></h4>
+                                <span class="project-new-category">Warehousing, Booking</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -50,8 +51,8 @@
                                 </div>
                             </div>
                             <div class="project-new-content">
-                                <span class="project-new-category">Warehousing, Booking</span>
                                 <h4 class="wt-title"><a href="{{ route('services') }}">New Jersey</a></h4>
+                                <span class="project-new-category">Warehousing, Booking</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -70,8 +71,8 @@
                                 </div>
                             </div>
                             <div class="project-new-content">
-                                <span class="project-new-category">Warehousing, Booking</span>
                                 <h4 class="wt-title"><a href="{{ route('services') }}">California</a></h4>
+                                <span class="project-new-category">Warehousing, Booking</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -90,8 +91,8 @@
                                 </div>
                             </div>
                             <div class="project-new-content">
-                                <span class="project-new-category">Warehousing, Booking</span>
                                 <h4 class="wt-title"><a href="{{ route('services') }}">Georgia</a></h4>
+                                <span class="project-new-category">Warehousing, Booking</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>

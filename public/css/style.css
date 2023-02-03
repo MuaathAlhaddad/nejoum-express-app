@@ -3400,7 +3400,7 @@ ol li {
 
 .section-head.center.wt-small-separator-outer h2 {
   max-width: 710px;
-  margin: 0px auto;
+  margin: 0 auto 35px;
 }
 
 @media (max-width: 991px) {

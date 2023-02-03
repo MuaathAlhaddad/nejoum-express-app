@@ -1,11 +1,12 @@
 <div class="section-full p-t90 p-b90 site-bg-white tw-client-logo2-area ">
     <div class="container home-client2-outer">
 
-        <div class="section-head center wt-small-separator-outer">
-            <div class="wt-small-separator site-text-primary">
-                <div>Our Partners</div>
-            </div>
-        </div>
+        @include('components.section-title', [
+                        'heading' => 'Our Partners',
+                        'sub_heading' => false,
+                        'text' => false,
+                        'alignment' => 'center'
+                        ])
 
         <div class="section-content">
 

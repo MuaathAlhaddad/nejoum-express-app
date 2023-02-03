@@ -4,14 +4,14 @@
     <div class="wt-separator-two-part">
         <div class="row wt-separator-two-part-row">
             <div class="col-xl-6 col-lg-6 col-md-12 wt-separator-two-part-left">
-                <!-- TITLE START-->
-                <div class="section-head left wt-small-separator-outer">
-                    <div class="wt-small-separator site-text-primary">
-                        <div>Our Service Features</div>
-                    </div>
-                    <p class="section-head-text">By receiving our services you also enjoy the following features of the logistics services.</p>
-                </div>
-                <!-- TITLE END-->
+
+                @include('components.section-title', [
+                        'heading' => 'Our Service Features',
+                        'sub_heading' => false,
+                        'text' => 'By receiving our services you also enjoy the following features of the logistics services.',
+                        'alignment' => 'left'
+                        ])
+
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 wt-separator-two-part-right text-right">
                 <a href="{{ route('about') }}" class="btn-half site-button"><span>Read More</span><em></em></a>

@@ -25,14 +25,13 @@
 
                     <div class="col-xl-6 col-lg-6 col-md-12">
                         <div class="tw-why-choose-left">
-                            <!-- TITLE START-->
-                            <div class="section-head left wt-small-separator-outer">
-                                <div class="wt-small-separator site-text-primary">
-                                    <div>Why Choose Us</div>
-                                </div>
-                                <h2 class="wt-title">We Are Professional Vehicle Logistics Professionals</h2>
-                            </div>
-                            <!-- TITLE END-->
+
+                            @include('components.section-title', [
+                                                    'heading' => 'Why Choose Us',
+                                                    'sub_heading' => 'We Are Professional Vehicle Logistics Professionals',
+                                                    'text' => false,
+                                                    'alignment' => 'left'
+                                                    ])
 
                             <ul class="description-list">
                                 <li>
