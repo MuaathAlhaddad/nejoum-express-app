@@ -661,8 +661,15 @@ function slider_home3(){
         var scroll = $(window).scrollTop();
         if(scroll >= 100) {
             $(".is-fixed").addClass("color-fill");
+            $(".header-style-3 .header-nav-call-section .detail span a").css("color", "#0b2f44");
+            $(".header-style-3 .header-nav .nav > li > a").css("color", "#0b2f44");
+            $(".header-style-3 .header-nav-call-section").css("color", "#0b2f44");
         } else {
             $(".is-fixed").removeClass("color-fill");
+            $(".header-style-3 .header-nav-call-section .detail span a").css("color", "#fff");
+            $(".header-style-3 .header-nav .nav > li > a").css("color", "#fff");
+            $(".header-style-3 .header-nav-call-section").css("color", "#fff");
+
         }
     }
 

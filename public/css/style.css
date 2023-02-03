@@ -3196,7 +3196,8 @@ ol li {
 }
 
 .header-style-3 .is-fixed.color-fill .main-bar {
-  background-color: #1e8fd0;
+  background-color: #fff;
+  /*background-color: #1e8fd0;*/
 }
 
 .header-style-3 .is-fixed.color-fill .header-nav .nav > li {
