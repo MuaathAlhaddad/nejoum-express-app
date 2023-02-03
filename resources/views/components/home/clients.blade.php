@@ -3,7 +3,7 @@
 
         <div class="section-head center wt-small-separator-outer">
             <div class="wt-small-separator site-text-primary">
-                <div>Our Clients</div>
+                <div>Our Partners</div>
             </div>
         </div>
 

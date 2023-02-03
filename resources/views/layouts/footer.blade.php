@@ -14,7 +14,9 @@
                             <div class="logo-footer clearfix">
                                 <a href="{{ route('home') }}"><img src="{{ asset('images/Logo Color.png') }}" alt=""></a>
                             </div>
-                            <p>Best Vehicle Logistics Services.</p>
+                            <p>Loading Full Service
+                               We have a strong system for the clients that covers all their needs.
+                               Stay updated regarding cars and containers through the application.</p>
                             <ul class="social-icons">
                                 <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
                                 <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
