@@ -20,7 +20,7 @@
         {{-- Our Warehouses --}}
         @include('components.home.projects')
 
-        @include('components.home.blog')
+        {{--  @include('components.home.blog')--}}
 
     </div>
 @endsection
