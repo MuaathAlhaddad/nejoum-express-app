@@ -432,10 +432,10 @@ function slider_home3(){
 	});
 	}
 
-	//  Client logo Carousel function by = owl.carousel.js ========================== //
+	//  Client logo Carousel function by = owl.carousel.js (Current)========================== //
 	function home_client_carousel_2(){
 		jQuery('.home-client-carousel2').owlCarousel({
-			loop:true,
+			loop:false,
 			nav:false,
 			dots: false,
 			margin:5,
@@ -588,10 +588,10 @@ function slider_home3(){
 		});
 	}
 
-	// > projects_carousel Full Screen with no margin function by = owl.carousel.js ========================== //
+	// > projects_carousel Full Screen with no margin function by = owl.carousel.js (Current) ========================== //
 	function project_carousel_2(){
 		jQuery('.project-carousel-2').owlCarousel({
-			loop:true,
+			loop:false,
 			nav:true,
 			dots: false,
 			margin:70,
