@@ -56,7 +56,7 @@
 
             <!--3-->
             <div class="col-xl-4 col-lg-4 col-md-6">
-                <div class="tw-est-2-section-block  active">
+                <div class="tw-est-2-section-block">
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">03</span>
                         <div class="media">
