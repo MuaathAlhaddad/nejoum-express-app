@@ -4,7 +4,7 @@
         <div class="swiper-wrapper">
 
             <!--Slide One -->
-            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider1/1920x920.png);">
+            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider1/1920x920_new.png);">
                 <div class="h-banner-wrap">
                     <div class="h-banner-left">
                         <div class="h-bnr-top">
@@ -25,7 +25,7 @@
             </div>
 
             <!--Slide Two -->
-            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider2/1920x920.png);">
+            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider2/1920x920_new.png);">
                 <div class="h-banner-wrap">
                     <div class="h-banner-left">
                         <div class="h-bnr-top">
@@ -46,7 +46,7 @@
             </div>
 
             <!--Slide Three -->
-            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider3/1920x920.png);">
+            <div class="swiper-slide bg-cover" style="background-image:url(images/main-slider/slider3/1920x920_new.png);">
                 <div class="h-banner-wrap">
                     <div class="h-banner-left">
                         <div class="h-bnr-top">
