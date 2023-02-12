@@ -48,7 +48,7 @@
                         <div class="tw-est-section-block-content">
                             <span class="tw-est-section-number">01</span>
                             <h3 class="tw-title">Specialized Solutions</h3>
-                            <p>We provide the best solutions for transporting your vehicles where we consider the case of each car independently.</p>
+                            <p>We provide the best solutions for wrapping and for the sake of risk reduction and full protection of the shipped vehicle under all circumstances..</p>
                             <a href="{{ route('about') }}" class="site-button-2-outline"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -59,8 +59,7 @@
                         <div class="tw-est-section-block-content">
                             <span class="tw-est-section-number">02</span>
                             <h3 class="tw-title">Strategic Coverage</h3>
-                            {{-- TODO add the content of this section --}}
-                            <p>We provide multiple drop off and pickup locations so you don't have to worry. And you should not face any kind...</p>
+                            <p>Our warehouses are situated in the most strategic places nearby the most important ports and auction areas in the USA.</p>
                             <a href="{{ route('about') }}" class="site-button-2-outline"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
