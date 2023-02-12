@@ -22,9 +22,9 @@
                     <div class="item">
                         <div class="project-new-2">
                             <div class="wt-img-effect">
-                                <img src="images/project/1 - Home - 397x352.png" alt="">
+                                <img src="images/project/texas warehouse.png" alt="">
                                 <div class="project-view">
-                                    <a class="elem pic-long project-view-btn" href="images/project/1 - Home - 397x352.png" title="Texas"
+                                    <a class="elem pic-long project-view-btn" href="images/project/texas warehouse.png" title="Texas"
                                        data-lcl-txt="" data-lcl-author="" data-lcl-thumb="images/project/1 - Home - 397x352.png">
                                         <i class="fa fa-search-plus"></i>
                                     </a>
@@ -42,9 +42,9 @@
                     <div class="item">
                         <div class="project-new-2">
                             <div class="wt-img-effect">
-                                <img src="images/project/2 - Home - 397x352.png" alt="">
+                                <img src="images/project/New jeresey warehouse.png" alt="">
                                 <div class="project-view">
-                                    <a class="elem pic-long project-view-btn" href="images/project/2 - Home - 397x352.png" title="New Jersey"
+                                    <a class="elem pic-long project-view-btn" href="images/project/New jeresey warehouse.png" title="New Jersey"
                                        data-lcl-txt="" data-lcl-author="" data-lcl-thumb="images/project/2 - Home - 397x352.png">
                                         <i class="fa fa-search-plus"></i>
                                     </a>
@@ -62,9 +62,9 @@
                     <div class="item">
                         <div class="project-new-2">
                             <div class="wt-img-effect">
-                                <img src="images/project/3 - Home - 397x352.png" alt="">
+                                <img src="images/project/california.png" alt="">
                                 <div class="project-view">
-                                    <a class="elem pic-long project-view-btn" href="images/project/3 - Home - 397x352.png" title="California"
+                                    <a class="elem pic-long project-view-btn" href="images/project/california.png" title="California"
                                        data-lcl-txt="" data-lcl-author="" data-lcl-thumb="images/project/3 - Home - 397x352.png">
                                         <i class="fa fa-search-plus"></i>
                                     </a>
@@ -82,9 +82,9 @@
                     <div class="item">
                         <div class="project-new-2">
                             <div class="wt-img-effect">
-                                <img src="images/project/4 - Home - 397x352.png" alt="">
+                                <img src="images/project/georgia.png" alt="">
                                 <div class="project-view">
-                                    <a class="elem pic-long project-view-btn" href="images/project/4 - Home - 397x352.png" title="Georgia"
+                                    <a class="elem pic-long project-view-btn" href="images/project/georgia.png" title="Georgia"
                                        data-lcl-txt="" data-lcl-author="" data-lcl-thumb="images/project/4 - Home - 397x352.png">
                                         <i class="fa fa-search-plus"></i>
                                     </a>
