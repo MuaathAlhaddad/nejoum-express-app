@@ -18,10 +18,9 @@
                                We have a strong system for the clients that covers all their needs.
                                Stay updated regarding cars and containers through the application.</p>
                             <ul class="social-icons">
-                                <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                <li><a href="javascript:void(0);" class="fa fa-instagram"></a></li>
-                                <li><a href="javascript:void(0);" class="fa fa-youtube-play"></a></li>
+                                <li><a href="https://www.facebook.com/nejoumexpress" class="fa fa-facebook"></a></li>
+                                <li><a href="https://twitter.com/Nejoumexpress" class="fa fa-twitter"></a></li>
+                                <li><a href="https://www.instagram.com/nejoum.express/" class="fa fa-instagram"></a></li>
                             </ul>
                         </div>
 
