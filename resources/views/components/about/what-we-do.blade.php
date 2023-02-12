@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-12">
                     <div class="tw-what-wedo-media">
-                        <img src="images/icons/img1.png" alt="">
+                        <img src="images/icons/what-we-do.jpg" alt="">
                     </div>
                 </div>
 
