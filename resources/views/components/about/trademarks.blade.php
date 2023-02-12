@@ -12,64 +12,47 @@
 
             <div class="owl-carousel home-client-carousel2 owl-btn-vertical-center">
 
-                {{--   TODO: add missing Trademarks    --}}
-
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Copart.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/1.-Official-Logo.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - IAAI.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/Global Logo - Final.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Manhiem.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/Logo Marsa Aden.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Adesa.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/logo-black.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Maersk.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/naj logo1-01.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Msc.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="images/trademarks/Official Eng.png" alt=""></a></div>
                     </div>
                 </div>
-
-
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - CMA.png" alt=""></a></div>
-                    </div>
-                </div>
-
-{{--   TODO: add missing partners             --}}
-                {{-- MSC --}}
-                {{-- ONE --}}
-                {{-- Cosco --}}
-                {{-- Evergreen --}}
 
             </div>
 
