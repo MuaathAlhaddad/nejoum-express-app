@@ -1,6 +1,6 @@
 <header class="site-header header-style-3 mobile-sider-drawer-menu">
 
-        <div class="sticky-header main-bar-wraper  navbar-expand-lg">
+        <div class="sticky-header main-bar-wraper  navbar-expand-lg color-fill">
             <div class="main-bar">
 
                 <div class="container-fluid clearfix">

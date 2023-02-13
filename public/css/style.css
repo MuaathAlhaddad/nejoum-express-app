@@ -2595,7 +2595,7 @@ ol li {
 
 .header-style-3 .header-nav-call-section {
   float: right;
-  color: #fff;
+  color: #0b2f44;
   display: flex;
 }
 
@@ -2612,7 +2612,7 @@ ol li {
 }
 
 .header-style-3 .header-nav-call-section .detail span a {
-  color: #fff;
+  color: #0b2f44;
 }
 
 .header-style-3 .header-nav-call-section .detail .title {
@@ -2779,7 +2779,7 @@ ol li {
 }
 
 .header-style-3 .navbar-toggler .icon-bar {
-  background: #fff;
+  background: #0b2f44;
   height: 3px;
   border-radius: 0px;
   display: block;
@@ -2891,7 +2891,7 @@ ol li {
 }
 
 .header-style-3 .header-nav .nav > li > a {
-  color: #fff;
+  color: #0b2f44;
   font-size: 16px;
   padding: 15px 16px;
   cursor: pointer;
