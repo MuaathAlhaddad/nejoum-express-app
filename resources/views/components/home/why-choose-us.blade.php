@@ -1,4 +1,4 @@
-<div class="section-full p-t120 p-b90 site-bg-white tw-why-choose-area2" style="background-image:url(images/background/home_big_picture_1920_1355_png);">
+<div class="section-full p-t120 p-b90 site-bg-white tw-why-choose-area2" style="background-image:url(images/background/home_big_picture_1920_1355.png);">
     <div class="tw-why-choose-area-top2">
         <div class="container">
 
