@@ -1,0 +1,12 @@
+POST http://nejoum-express-app.test/api/contact/store?XDEBUG_SESSION=XDEBUG_ECLIPSE
+Content-Type: application/json
+
+{
+  "name": "معاذ الحداد",
+  "email": "mua2000ath@hotmail.com",
+  "phone": "01128853086",
+  "subject": "اريد ان اسال عن شيء ما",
+  "message": "اريد ان اسال عن شيء ما اريد ان اسال عن شيء ما",
+  "action": "contactform"
+}
+
