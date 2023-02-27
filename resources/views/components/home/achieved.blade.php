@@ -7,8 +7,8 @@
         <!-- 1 -->
         <div class="tw-we-achived-box-warp">
             <div class="tw-we-achived-box">
-                <h2 class="counter">4</h2>
-                <span>Warehouses in U.S.A</span>
+                <h2 class="counter">9</h2>
+                <span>Warehouses around the world</span>
             </div>
         </div>
 
