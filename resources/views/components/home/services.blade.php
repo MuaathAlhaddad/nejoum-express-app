@@ -18,7 +18,7 @@
                         <div class="col-lg-4 col-md-6 mb-4">
                             <div class="service-box-style3">
                                 <div class="service-media">
-                                    <img src="images/icons/pic5.png" alt="">
+                                    <img src="images/icons/warehouses.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">01</span><a href="{{ route('services') }}">Warehousing</a></h3>
@@ -32,7 +32,7 @@
                         <div class="col-lg-4 col-md-6 mb-4">
                             <div class="service-box-style3">
                                 <div class="service-media">
-                                    <img src="images/icons/pic1.png" alt="">
+                                    <img src="images/icons/car_loading.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">02</span><a href="{{ route('services') }}">Car Loading</a></h3>
@@ -60,7 +60,7 @@
                         <div class="col-lg-4 col-md-6 mb-4">
                             <div class="service-box-style3">
                                 <div class="service-media">
-                                    <img src="images/icons/pic1.png" alt="">
+                                    <img src="images/icons/car_wrapping.png" alt="">
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">04</span><a href="{{ route('services') }}">Car Wrapping</a></h3>

@@ -45,7 +45,7 @@
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">02</span>
                         <div class="media">
-                            <img src="images/estimation-icon/pic2.png" alt="#">
+                            <img src="images/estimation-icon/multiple_destinations.png" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple Destinations</h3>
                         <p>You may receive your cars in multiple destinations around the world such as in UAE, Oman, Iraq, and Cambodia</p>
@@ -60,7 +60,7 @@
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">03</span>
                         <div class="media">
-                            <img src="images/estimation-icon/pic3.png" alt="#">
+                            <img src="images/estimation-icon/Multiple_loactions.png" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple locations</h3>
                         <p>Our Warehouses cover strategic locations in the United States.</p>
