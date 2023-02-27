@@ -32,7 +32,7 @@
                             </div>
                             <div class="project-new-content">
                                 <h4 class="wt-title"><a href="{{ route('services') }}">Texas</a></h4>
-                                <span class="project-new-category">Warehousing, Booking</span>
+                                <span class="project-new-category">6 Linden Ave. East Jersey City, NJ 07305</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                             </div>
                             <div class="project-new-content">
                                 <h4 class="wt-title"><a href="{{ route('services') }}">New Jersey</a></h4>
-                                <span class="project-new-category">Warehousing, Booking</span>
+                                <span class="project-new-category">6012 Murphy St Houston,TX 77033</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                             </div>
                             <div class="project-new-content">
                                 <h4 class="wt-title"><a href="{{ route('services') }}">California</a></h4>
-                                <span class="project-new-category">Warehousing, Booking</span>
+                                <span class="project-new-category">46 ARTLEY ROAD SAVANNAH, GA 31408</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                             </div>
                             <div class="project-new-content">
                                 <h4 class="wt-title"><a href="{{ route('services') }}">Georgia</a></h4>
-                                <span class="project-new-category">Warehousing, Booking</span>
+                                <span class="project-new-category">131 E. Gardena Blvd. Gardena, CA 90247</span>
                                 {{-- <a href="{{ route('services') }}" class="site-button-h-align">Read More</a>--}}
                             </div>
                         </div>

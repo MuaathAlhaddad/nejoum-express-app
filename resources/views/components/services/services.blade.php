@@ -23,7 +23,7 @@
                                             <h3 class="service-title-large"><a href="{{ route('services') }}">Warehousing</a></h3>
                                         </div>
                                         <div class="service-content-bottom">
-                                            <span class="service-title-large-number">02</span>
+                                            <span class="service-title-large-number">01</span>
                                             <p>Our warehousing services are designed to be always with a high capacity to include the new cars coming everyday.</p>
                                             <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
                                         </div>
@@ -44,7 +44,7 @@
                                             <h3 class="service-title-large"><a href="{{ route('services') }}">Car Loading</a></h3>
                                         </div>
                                         <div class="service-content-bottom">
-                                            <span class="service-title-large-number">03</span>
+                                            <span class="service-title-large-number">02</span>
                                             <p>We provide professional car loading services throughout our experienced team.</p>
                                             <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
                                         </div>
@@ -65,7 +65,7 @@
                                             <h3 class="service-title-large"><a href="{{ route('services') }}">NAJ Booking</a></h3>
                                         </div>
                                         <div class="service-content-bottom">
-                                            <span class="service-title-large-number">04</span>
+                                            <span class="service-title-large-number">03</span>
                                             <p>We manage your bookings with shipping lines to bring the most recent booking dates.</p>
                                             <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
                                         </div>
@@ -86,7 +86,7 @@
                                             <h3 class="service-title-large"><a href="{{ route('services') }}">Ocean Freight</a></h3>
                                         </div>
                                         <div class="service-content-bottom">
-                                            <span class="service-title-large-number">05</span>
+                                            <span class="service-title-large-number">04</span>
                                             <p>We provide Ocean freight services sending your vehicles to the middle east and Southeast Asia</p>
                                             <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
                                         </div>
@@ -107,7 +107,7 @@
                                             <h3 class="service-title-large"><a href="{{ route('services') }}">Custom Clearance</a></h3>
                                         </div>
                                         <div class="service-content-bottom">
-                                            <span class="service-title-large-number">06</span>
+                                            <span class="service-title-large-number">05</span>
                                             <p>We ensure smooth and comfortable customs clearance in the country of arrival to deliver your shipments.</p>
                                             <a href="{{ route('services') }}" class="site-button-2">Learn more..</a>
                                         </div>
