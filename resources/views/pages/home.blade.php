@@ -17,6 +17,8 @@
 
         @include('components.home.clients')
 
+        @include('components.home.auction-partners')
+
         {{-- Our Warehouses --}}
         @include('components.home.projects')
 
