@@ -15,35 +15,7 @@
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Adesa.png" alt=""></a></div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
                             <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - CMA.png" alt=""></a></div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Copart.png" alt=""></a></div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - IAAI.png" alt=""></a></div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - Manhiem.png" alt=""></a></div>
                     </div>
                 </div>
 
