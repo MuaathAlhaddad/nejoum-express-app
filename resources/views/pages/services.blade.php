@@ -11,7 +11,7 @@
 
         @include('components.services.services-features')
 
-        @include('components.home.clients')
+        @include('components.clients')
 
     </div>
 @endsection
