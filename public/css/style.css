@@ -5238,7 +5238,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 /*Description list*/
 .description-list {
   margin: 30px 0px;
-  color: #fff;
+  color: #000;
 }
 
 .description-list li {
