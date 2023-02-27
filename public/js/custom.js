@@ -452,7 +452,7 @@ function slider_home3(){
 					items:4,
 				},
 				1000:{
-					items:6
+					items:4
 				}
 			}
 		});
