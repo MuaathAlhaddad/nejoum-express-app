@@ -24,7 +24,7 @@
         <div class="tw-we-achived-box-warp">
             <div class="tw-we-achived-box">
                 <h2 class="counter">25,000</h2>
-                <span>Containers loaded monthly</span>
+                <span>Containers loaded Annually</span>
             </div>
         </div>
 

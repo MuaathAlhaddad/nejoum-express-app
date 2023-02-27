@@ -52,7 +52,7 @@
                         <div class="h-bnr-top">
                             <h2>
                                 <span class="title-outline">Covering</span>
-                                USA & CANADA
+                                the United States
                             </h2>
                             <p>We are located along the US continent and cover top strategic areas for car towing from the Auction.</p>
                             <a href="{{ route('services') }}" class="h-bnr-btn">View Services</a>

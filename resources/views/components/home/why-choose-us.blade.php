@@ -16,7 +16,7 @@
                             <div class="tw-why-choose-tag slide-top shine-effect">
                                 <div class="tag-box">
                                     <h2>25,000+</h2>
-                                    <h3>Containers loaded monthly</h3>
+                                    <h3>Containers loaded annually</h3>
                                     <span>Since 2002</span>
                                 </div>
                             </div>
@@ -27,7 +27,7 @@
                         <div class="tw-why-choose-left">
 
                             @include('components.section-title', [
-                                                    'heading' => 'Why Choose Us',
+                                                    'heading' => 'Why Choose Us?',
                                                     'sub_heading' => 'We Are Professional Vehicle Logistics Professionals',
                                                     'text' => false,
                                                     'alignment' => 'left'
