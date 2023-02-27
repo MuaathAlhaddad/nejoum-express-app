@@ -1,4 +1,4 @@
-<div class="section-full p-t90 p-b90 site-bg-white tw-client-logo2-area ">
+<div class="section-full p-t90 p-b90 site-bg-white tw-client-logo2-area min-vh-70">
     <div class="container home-client2-outer">
 
         @include('components.section-title', [
