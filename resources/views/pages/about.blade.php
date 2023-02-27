@@ -15,9 +15,11 @@
 
         @include('components.about.achieved')
 
-        @include('components.home.clients')
-
         @include('components.about.trademarks')
+
+        @include('components.clients')
+
+        @include('components.auction-partners')
 
         @include('components.about.location')
 
