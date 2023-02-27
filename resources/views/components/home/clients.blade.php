@@ -75,6 +75,28 @@
                     </div>
                 </div>
 
+
+                <div class="item">
+                    <div class="ow-client-logo">
+                        <div class="client-logo client-logo-media">
+                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 evergreen.jpg" alt=""></a></div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="ow-client-logo">
+                        <div class="client-logo client-logo-media">
+                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 HMM.png" alt=""></a></div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="ow-client-logo">
+                        <div class="client-logo client-logo-media">
+                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 one.png" alt=""></a></div>
+                    </div>
+                </div>
+
             </div>
 
         </div>
