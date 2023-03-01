@@ -25,7 +25,7 @@
                         <div class="service-icon-box-two">
 
                             <div class="service-icon-box-two-media">
-                                <img src="images/icons/pic1.png" alt="#">
+                                <img src="images/icons/warehouses.png" alt="#">
                             </div>
 
                             <div class="service-icon-box-title">
