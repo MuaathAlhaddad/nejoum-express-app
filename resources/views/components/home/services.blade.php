@@ -6,7 +6,7 @@
             @include('components.section-title', [
                                     'heading' => 'Our Services',
                                     'sub_heading' => false,
-                                    'text' => 'Our aim is to optimize and improve the quality and pace of car logistics transportation and to give you the best service.',
+                                    'text' => 'Our aim is to optimize and improve the quality and pace of container loading and car logistics transportation to give you the best service experience.',
                                     'alignment' => 'center'
                                     ])
 
@@ -22,7 +22,7 @@
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">01</span><a href="{{ route('services') }}">Warehousing</a></h3>
-                                    <p>Our warehousing services are designed to be always with a high capacity to include the new cars coming everyday.</p>
+                                    <p>Our warehousing services are designed to be always with a high capacity to include the new cars received everyday.</p>
                                     <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
@@ -64,7 +64,8 @@
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">04</span><a href="{{ route('services') }}">Car Wrapping</a></h3>
-                                    <p>We provide extra safety and protection measures to the shipped vehicles with car wrapping services.</p>
+                                    <p>We provide extra safety and protection measures to the shipped vehicles with car wrapping services. (Special services for wrapping classic cars and luxury cars.)
+                                    </p>
                                     <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
@@ -78,7 +79,7 @@
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">05</span><a href="{{ route('services') }}">Ocean Freight</a></h3>
-                                    <p>We provide Ocean freight services sending your vehicles to the middle east and Southeast Asia.</p>
+                                    <p>We provide Ocean freight services sending your vehicles to the Middle East and worldwide destinations.</p>
                                     <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>

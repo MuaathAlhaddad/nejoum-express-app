@@ -12,7 +12,7 @@
                                 <span class="title-outline">Easing</span>
                                 Heavy Duty
                             </h2>
-                            <p>We look after all details of vehicle transport starting from towing from the auction, warehousing and Ship booking.</p>
+                            <p>We look after all details of vehicle transport starting from towing from the auction, loading, warehousing and Ship booking.</p>
                             <a href="{{ route('services') }}" class="h-bnr-btn">View Services</a>
                         </div>
 

@@ -32,8 +32,7 @@
                             <img src="images/estimation-icon/pic1.png" alt="#">
                         </div>
                         <h3 class="tw-title">Specialized Solutions</h3>
-                        <p class="min-vh-50">We provide the best solutions for transporting your vehicles where we consider the case of each car independently.
-                           Car Wrapping</p>
+                        <p class="min-vh-50">We provide the best solutions for container loading and transporting your vehicles which best suits the special needs of our customers.</p>
                         <a href="{{ route('about') }}" class="site-button-2-outline dark"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -48,7 +47,7 @@
                             <img src="images/estimation-icon/multiple_destinations.png" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple Destinations</h3>
-                        <p class="min-vh-50">You may receive your cars in multiple destinations around the world such as in UAE, Oman, Iraq, and Cambodia</p>
+                        <p class="min-vh-50">We can send your cars to multiple destinations worldwide with precise scheduling and special operations’ management</p>
                         <a href="{{ route('about') }}" class="site-button-2-outline dark"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
@@ -63,7 +62,7 @@
                             <img src="images/estimation-icon/Multiple_loactions.png" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple locations</h3>
-                        <p class="min-vh-50">Our Warehouses cover strategic locations in the United States.</p>
+                        <p class="min-vh-50">Our Warehouses cover strategic locations in the United States and Canada.</p>
                         <a href="{{ route('about') }}" class="site-button-2-outline dark"><i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>

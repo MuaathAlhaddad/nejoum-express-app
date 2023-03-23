@@ -28,7 +28,7 @@
 
                             @include('components.section-title', [
                                                     'heading' => 'Why Choose Us?',
-                                                    'sub_heading' => 'We Are Professional Vehicle Logistics Professionals',
+                                                    'sub_heading' => 'We are the professionals in Vehicles\' Logistics and Transportation',
                                                     'text' => false,
                                                     'alignment' => 'left'
                                                     ])
@@ -37,7 +37,7 @@
                                 <li>
                                     <i class="fa fa-angle-right"></i>
                                     <strong>Comprehensive Services:</strong>
-                                    Receive full logistics servicing from towing, to warehousing, shipping, clearance and even sale in the country of arrival.
+                                    Receive full logistics services from towing, to warehousing, loading and shipping to countries worldwide.
                                 </li>
                                 <li>
                                     <i class="fa fa-angle-right"></i>
@@ -52,12 +52,12 @@
                                 <li>
                                     <i class="fa fa-angle-right"></i>
                                     <strong>Highly-experienced:</strong>
-                                    Our team enjoys a cumulative experience of more than 20 years in the field of car transportation.
+                                    Our team enjoys a cumulative experience of more than 20 years in the field of container loading and car transportation.
                                 </li>
                                 <li>
                                     <i class="fa fa-angle-right"></i>
                                     <strong>Wide Coverage:</strong>
-                                    We cover the United States and Canada with our warehouses all in Georgia, Texas, New Jersey, Washington, and California and more..
+                                    We cover the United States and Canada with our warehouses all in Georgia, Texas, New Jersey, Washington, California and Canada..
                                 </li>
                             </ul>
                             <div class="tw-why-choose-left-bottom">
