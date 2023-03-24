@@ -45,7 +45,7 @@
                             <div class="header-nav-call-section">
                                 <div class="detail">
                                     <span class="title">Call our number</span>
-                                    <span><a href="tel:+12815010650">+1 (281) 501-0650</a></span>
+                                    <span><a href="tel:+15052899797">+15052899797</a></span>
                                 </div>
                                 <div class="media">
                                     <img src="{{asset("images/call.png")}}" alt="#">
