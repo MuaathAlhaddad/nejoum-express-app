@@ -16,7 +16,7 @@ class ContactController extends Controller
 
         Contact::create( $args );
 
-        $adminEmail = 'muaath2000@gmail.com';
+        $adminEmail = config('mail.from.address');
 
         Mail::to( $adminEmail )->send( new ContactMail() );
 

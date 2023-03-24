@@ -28,7 +28,6 @@ class ContactMail extends Mailable
      */
     public function build()
     {
-        return $this->subject('Thank you for your email')
-                    ->markdown('emails.contact-mail');
+        return $this->view('emails.contact-mail');
     }
 }
