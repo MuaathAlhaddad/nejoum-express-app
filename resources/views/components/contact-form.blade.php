@@ -68,7 +68,7 @@
                                                 </div>
 
                                                 <div class="col-lg-4 col-md-12">
-                                                    <div class="contact-info  site-bg-dark bg-no-repeat bg-bottom-left" style="background-image: url(images/background/contact-bg.png);">
+                                                    <div class="contact-info  site-bg-dark bg-no-repeat bg-bottom-left" style="background-image: url({{ asset("images/background/contact-bg.png")}});">
                                                         <!-- TITLE START-->
                                                         <div class="section-head-small white mb-4">
                                                             <h3 class="wt-title">Let’s Get in Touch!</h3>

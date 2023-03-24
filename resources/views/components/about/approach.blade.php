@@ -39,7 +39,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="counter-outer-two">
                             <div class="tw-counter-media">
-                                <img src="images/icons/c-pic1.png" alt="">
+                                <img src="{{ asset("images/icons/c-pic1.png")}}" alt="">
                             </div>
                             <div class="icon-content">
                                  <div class="tw-count-number site-text-primary"><span class="counter site-text-primary">195</span>+</div>
@@ -52,7 +52,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="counter-outer-two">
                             <div class="tw-counter-media">
-                                <img src="images/icons/c-pic2.png" alt="">
+                                <img src="{{ asset("images/icons/c-pic2.png")}}" alt="">
                             </div>
                             <div class="icon-content">
                                  <div class="tw-count-number site-text-primary"><span class="counter site-text-primary">250</span>+</div>
@@ -65,7 +65,7 @@
                     <div class="col-lg-4 col-md-12">
                         <div class="counter-outer-two">
                             <div class="tw-counter-media">
-                                <img src="images/icons/c-pic3.png" alt="">
+                                <img src="{{ asset("images/icons/c-pic3.png")}}" alt="">
                             </div>
                             <div class="icon-content">
                                  <div class="tw-count-number site-text-primary"><span class="counter site-text-primary">350</span>+</div>

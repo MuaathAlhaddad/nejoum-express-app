@@ -48,7 +48,7 @@
                                     <span><a href="tel:+12815010650">+1 (281) 501-0650</a></span>
                                 </div>
                                 <div class="media">
-                                    <img src="images/call.png" alt="#">
+                                    <img src="{{asset("images/call.png")}}" alt="#">
                                 </div>
                             </div>
                         </div>

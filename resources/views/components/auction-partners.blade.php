@@ -15,28 +15,28 @@
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/auctions-partners-logo/adesa.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src={{ asset("images/auctions-partners-logo/adesa.png")}} alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/auctions-partners-logo/copart.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src={{ asset("images/auctions-partners-logo/copart.png")}} alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/auctions-partners-logo/iaai.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src={{ asset("images/auctions-partners-logo/iaai.png")}} alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/auctions-partners-logo/manheim.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src={{ asset("images/auctions-partners-logo/manheim.png")}} alt=""></a></div>
                     </div>
                 </div>
 

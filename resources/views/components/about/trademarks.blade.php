@@ -15,42 +15,42 @@
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/1.-Official-Logo.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/1.-Official-Logo.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/Global Logo - Final.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/Global Logo - Final.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/Logo Marsa Aden.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/Logo Marsa Aden.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/logo-black.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/logo-black.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/naj logo1-01.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/naj logo1-01")}}.png" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/trademarks/Official Eng.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/trademarks/Official Eng.png")}}" alt=""></a></div>
                     </div>
                 </div>
 

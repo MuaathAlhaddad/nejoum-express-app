@@ -1,4 +1,4 @@
-<div class="section-full p-t120 p-b90 site-bg-white tw-why-choose-area2" style="background-image:url(images/background/home_big_picture_1920_1355.png);">
+<div class="section-full p-t120 p-b90 site-bg-white tw-why-choose-area2" style="background-image:url( {{asset(" images/background/home_big_picture_1920_1355.png")}} );">
     <div class="tw-why-choose-area-top2">
         <div class="container">
 
@@ -10,7 +10,7 @@
                         <div class="tw-why-choose-right">
                             <div class="tw-why-choose-media1 shine-effect">
                                 <div class="shine-box">
-                                    <img src="images/Home_400x720.png" alt="" >
+                                    <img src="{{ asset("images/Home_400x720.png")}}" alt="" >
                                 </div>
                             </div>
                             <div class="tw-why-choose-tag slide-top shine-effect">

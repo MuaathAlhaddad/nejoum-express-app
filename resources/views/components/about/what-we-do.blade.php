@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-xl-5 col-lg-5 col-md-12">
                     <div class="tw-what-wedo-media">
-                        <img src="images/icons/what-we-do.jpg" alt="">
+                        <img src={{ asset("images/icons/what-we-do.jpg")}} alt="">
                     </div>
                 </div>
 
@@ -25,14 +25,14 @@
                         <div class="service-icon-box-two">
 
                             <div class="service-icon-box-two-media">
-                                <img src="images/icons/warehouses.png" alt="#">
+                                <img src={{ asset("images/icons/warehouses.png")}} alt="#">
                             </div>
 
                             <div class="service-icon-box-title">
                                 <h3 class="wt-title">
                                     <a href="services-detail.html"> <span class="site-text-primary">01.</span>Warehousing</a>
                                 </h3>
-                                <p>Our warehousing services are designed to be always with a high capacity to include the new cars coming everyday.  </p>
+                                <p>Our warehousing services are designed to be always with a high capacity to include the new cars coming everyday. </p>
                             </div>
 
                         </div>
@@ -41,7 +41,7 @@
                         <div class="service-icon-box-two">
 
                             <div class="service-icon-box-two-media">
-                                <img src="images/icons/pic2.png" alt="#">
+                                <img src={{ asset("images/icons/pic2.png")}} alt="#">
                             </div>
 
                             <div class="service-icon-box-title">

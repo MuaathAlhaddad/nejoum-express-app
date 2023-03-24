@@ -19,7 +19,7 @@
                     <!--Block one-->
                     <div class="blog-post blog-post-4-outer">
                         <div class="wt-post-media wt-img-effect zoom-slow">
-                            <a href="#"><img src="images/blog/Home 770x500 - Oman.png" alt=""></a>
+                            <a href="#"><img src="{{ asset("images/blog/Home 770x500 - Oman.png")}}" alt=""></a>
                         </div>
                         <div class="wt-post-info">
                             <div class="wt-post-meta ">
@@ -48,7 +48,7 @@
                     <!--Block two-->
                     <div class="blog-post blog-post-4-outer">
                         <div class="wt-post-media wt-img-effect zoom-slow">
-                            <a href="#"><img src="images/blog/Home 770x500 - Oman.png" alt=""></a>
+                            <a href="#"><img src=" {{ asset("images/blog/Home 770x500 - Oman.png")}}" alt=""></a>
                         </div>
                         <div class="wt-post-info">
                             <div class="wt-post-meta ">

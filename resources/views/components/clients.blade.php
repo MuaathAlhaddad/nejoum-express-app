@@ -15,35 +15,37 @@
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 - CMA.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 - CMA.png")}}" alt=""></a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Hapg lloyd.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 Hapg lloyd.png")}}" alt=""></a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Maersk.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 Maersk.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Msc.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 Msc.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 Twill.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 Twill.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
@@ -51,21 +53,21 @@
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 evergreen.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 evergreen.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 HMM.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 HMM.png")}}" alt=""></a></div>
                     </div>
                 </div>
 
                 <div class="item">
                     <div class="ow-client-logo">
                         <div class="client-logo client-logo-media">
-                            <a href="{{ route('about') }}"><img src="images/client-logo/Home - 231x228 one.png" alt=""></a></div>
+                            <a href="{{ route('about') }}"><img src="{{ asset("images/client-logo/Home - 231x228 one.png")}}" alt=""></a></div>
                     </div>
                 </div>
 

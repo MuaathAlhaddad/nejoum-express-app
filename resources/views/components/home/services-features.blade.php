@@ -29,7 +29,7 @@
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">01</span>
                         <div class="media">
-                            <img src="images/estimation-icon/pic1.png" alt="#">
+                            <img src="{{ asset("images/estimation-icon/pic1.png")}}" alt="#">
                         </div>
                         <h3 class="tw-title">Specialized Solutions</h3>
                         <p class="min-vh-50">We provide the best solutions for container loading and transporting your vehicles which best suits the special needs of our customers.</p>
@@ -44,7 +44,7 @@
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">02</span>
                         <div class="media">
-                            <img src="images/estimation-icon/multiple_destinations.png" alt="#">
+                            <img src="{{ asset("images/estimation-icon/multiple_destinations.png")}}" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple Destinations</h3>
                         <p class="min-vh-50">We can send your cars to multiple destinations worldwide with precise scheduling and special operations’ management</p>
@@ -59,7 +59,7 @@
                     <div class="tw-est-2-section-block-content">
                         <span class="tw-est-2-section-number">03</span>
                         <div class="media">
-                            <img src="images/estimation-icon/Multiple_loactions.png" alt="#">
+                            <img src="{{ asset("images/estimation-icon/Multiple_loactions.png")}}" alt="#">
                         </div>
                         <h3 class="tw-title">Multiple locations</h3>
                         <p class="min-vh-50">Our Warehouses cover strategic locations in the United States and Canada.</p>
