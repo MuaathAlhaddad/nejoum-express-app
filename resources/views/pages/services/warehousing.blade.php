@@ -14,7 +14,17 @@
 
                 <div class="row">
 
-                    <div class="col-xl-5 col-lg-5 col-md-12">
+                    <div class="col-xl-6 col-lg-6 col-md-12">
+                        <div class="tw-why-choose-right">
+                            <div class="tw-why-choose-media1 shine-effect">
+                                <div class="shine-box">
+                                    <img src="{{ asset("images/s-gallery/10 - Services - 370 x 666 - Storage.png")}}" alt="" >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-6 col-lg-6 col-md-12">
                         @include('components.section-title', [
                'heading' => 'Warehousing',
                'alignment' => 'left'
@@ -32,21 +42,6 @@
                         </div>
                     </div>
 
-                    <div class="col-xl-7 col-lg-7 col-md-12">
-                        <div class="tw-why-choose-right">
-                            <div class="tw-why-choose-media2 slide-top shine-effect">
-                                <div class="shine-box">
-                                    <img src="{{ asset('images/s-gallery/10 - Services - 370 x 666 - Storage.png') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="tw-why-choose-media1 shine-effect">
-                                <div class="shine-box">
-                                    <img src="{{ asset('images/s-gallery/10 - Services - 370 x 666 - Storage.png') }}" alt="" >
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
 
                 </div>
 
