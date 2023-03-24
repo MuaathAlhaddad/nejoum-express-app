@@ -44,8 +44,7 @@
             </div>
 
             <!--Slide Three -->
-            <div class="swiper-slide bg-cover" style="background-image:url( {{ asset(" images
-            /main-slider/slider3/1920x920_new.png") }});">
+            <div class="swiper-slide bg-cover" style="background-image:url( {{ asset("images/main-slider/slider3/1920x920_new.png") }});">
                 <div class="h-banner-wrap">
                     <div class="h-banner-left">
                         <div class="h-bnr-top">
