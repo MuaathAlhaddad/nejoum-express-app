@@ -11,6 +11,9 @@
             <div>
                 <ul class="wt-breadcrumb breadcrumb-style-2">
                     <li><a href="{{ route('home') }}">Home</a></li>
+                    @if( isset($service_single_page))
+                        <li><a href="{{ route('services') }}">Services</a></li>
+                    @endif
                     <li>{{ $breadcrumb }}</li>
                 </ul>
             </div>

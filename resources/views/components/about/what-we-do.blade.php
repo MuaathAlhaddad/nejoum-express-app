@@ -30,7 +30,7 @@
 
                             <div class="service-icon-box-title">
                                 <h3 class="wt-title">
-                                    <a href="services-detail.html"> <span class="site-text-primary">01.</span>Warehousing</a>
+                                    <a href="{{ route("services.warehousing")}}"> <span class="site-text-primary">01.</span>Warehousing</a>
                                 </h3>
                                 <p>Our warehousing services are designed to be always with a high capacity to include the new cars coming everyday. </p>
                             </div>
@@ -46,7 +46,7 @@
 
                             <div class="service-icon-box-title">
                                 <h3 class="wt-title">
-                                    <a href="services-detail.html"> <span class="site-text-primary">02.</span>Shipping Freight</a>
+                                    <a href="{{ route('services.ocean_freight') }}"> <span class="site-text-primary">02.</span>Ocean Freight</a>
                                 </h3>
                                 <p>We provide Ocean freight services sending your vehicles to the middle east and Southeast Asia </p>
                             </div>
