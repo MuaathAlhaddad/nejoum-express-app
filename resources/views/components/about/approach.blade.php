@@ -26,7 +26,7 @@
                 <div class="tw-company-years">
                     <div class="light">
                         <h1>20</h1>
-                        <img src="images/20 years of experience.png" alt="">
+                        <img src="{{ asset("images/20 years of experience.png") }}" alt="">
                     </div>
                     <div class="tw-company-info">
                         <span>Years of experience in vehicle logistics services</span>
