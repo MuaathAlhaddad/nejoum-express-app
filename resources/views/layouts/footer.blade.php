@@ -41,11 +41,11 @@
                         <div class="widget widget_services ftr-list-center">
                             <h3 class="widget-title">Services</h3>
                             <ul>
-                                <li><a href="{{ route('services') }}">Warehousing</a></li>
-                                <li><a href="{{ route('services') }}">Car Loading</a></li>
-                                <li><a href="{{ route('services') }}">NAJ Booking</a></li>
-                                <li><a href="{{ route('services') }}">Car Wrapping</a></li>
-                                <li><a href="{{ route('services') }}">Ocean Freight</a></li>
+                                <li><a href="{{ route('services.warehousing') }}">Warehousing</a></li>
+                                <li><a href="{{ route('services.car_loading') }}">Car Loading</a></li>
+                                <li><a href="{{ route('services.naj_booking') }}">NAJ Booking</a></li>
+                                <li><a href="{{ route('services.custom_clearance') }}">Custom Clearance</a></li>
+                                <li><a href="{{ route('services.ocean_freight') }}">Ocean Freight</a></li>
                             </ul>
                         </div>
                     </div>
