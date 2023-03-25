@@ -1,266 +1,93 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<!DOCTYPE html>
+<html lang="ar" dir="ltr">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Nejoum Express</title>
-    <style type="text/css">
-        body {
-            background-color: #eaeaea;
-            padding-top: 0 !important;
-            padding-bottom: 0 !important;
-            margin: 0 !important;
-            width: 100% !important;
-            -webkit-text-size-adjust: 100% !important;
-            -ms-text-size-adjust: 100% !important;
-            -webkit-font-smoothing: antialiased !important;
-        }
-
-        .tableContent img {
-            border: 0 !important;
-            display: block !important;
-            outline: none !important;
-        }
-
-        a {
-            color: #4a7c12;
-        }
-
-        h1 {
-            color: #382F2E;
-            margin: 0;
-        }
-
-        p {
-            color: #606060;
-            font-size: 14px;
-            font-weight: normal;
-            line-height: 19px;
-        }
-
-        .button {
-            text-decoration: none;
-            border: 1px solid transparent;
-            border-radius: 3px;
-            box-shadow: none;
-            display: inline-block;
-            font-size: 16px;
-            padding: 7px 17px;
-            position: relative;
-            user-select: none;
-            background-color: #ffffff;
-            color: #4a7c12;
-            cursor: pointer;
-            text-align: center;
-            white-space: nowrap;
-        }
-
-        .button.is-success {
-            background-color: #7aaf3e;
-            color: #ffffff;
-        }
-
-        h2 {
-            color: #222222;
-            font-size: 19px;
-            font-weight: normal;
-        }
-
-        div, ul {
-            margin: 0;
-        }
-
-        .bgBody {
-            background: #ffffff;
-        }
-
-        .bgItem {
-            background: #ffffff;
-        }
-
-        .dont-break-out {
-            /* These are technically the same, but use both */
-            overflow-wrap: break-word;
-            word-wrap: break-word;
-
-            -ms-word-break: break-all;
-            /* This is the dangerous one in WebKit, as it breaks things wherever */
-            word-break: break-all;
-            /* Instead use this non-standard one: */
-            word-break: break-word;
-
-            /* Adds a hyphen where the word breaks, if supported (No Blink) */
-            -ms-hyphens: auto;
-            -moz-hyphens: auto;
-            -webkit-hyphens: auto;
-            hyphens: auto;
-
-        }
-
-        @media only screen and (max-width: 480px) {
-
-            table[class="MainContainer"], td[class="cell"] {
-                width: 100% !important;
-                height: auto !important;
-            }
-
-            td[class="specbundle"] {
-                width: 100% !important;
-                float: left !important;
-                font-size: 13px !important;
-                line-height: 17px !important;
-                display: block !important;
-                padding-bottom: 15px !important;
-            }
-
-            td[class="spechide"] {
-                display: none !important;
-            }
-
-            img[class="banner"] {
-                width: 100% !important;
-                height: auto !important;
-            }
-
-            td[class="left_pad"] {
-                padding-left: 15px !important;
-                padding-right: 15px !important;
-            }
-
-        }
-
-        @media only screen and (max-width: 540px) {
-
-            table[class="MainContainer"], td[class="cell"] {
-                width: 100% !important;
-                height: auto !important;
-            }
-
-            td[class="specbundle"] {
-                width: 100% !important;
-                float: left !important;
-                font-size: 13px !important;
-                line-height: 17px !important;
-                display: block !important;
-                padding-bottom: 15px !important;
-            }
-
-            td[class="spechide"] {
-                display: none !important;
-            }
-
-            img[class="banner"] {
-                width: 100% !important;
-                height: auto !important;
-            }
-
-            .font {
-                font-size: 18px !important;
-                line-height: 22px !important;
-
-            }
-
-            .font1 {
-                font-size: 18px !important;
-                line-height: 22px !important;
-
-            }
-        }
-
-    </style>
+    <meta charSet="utf-8"/>
 </head>
-<body paddingwidth="0" paddingheight="0"
-      style="direction: ltr;padding-top: 0; padding-bottom: 0;background-repeat: repeat; width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased;"
-      offset="0" toppadding="0" leftpadding="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tableContent" align="center"
-       style='font-family:Helvetica, Arial,serif;'>
+<body dir="ltr" style="margin: 0;padding: 0; background-color:#d2d9df; direction: ltr">
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
     <tbody>
     <tr>
-        <td height='40' class="spechide"></td>
-    </tr>
-    <tr>
-        <td>
-            <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff"
-                   class="MainContainer">
+        <td align="center">
+            <table border="0" cellPadding="0" cellSpacing="0" id="table-content"
+                   style="padding: 0 16px;max-width:600px "
+                   width="100%">
                 <tbody>
                 <tr>
-                    <td>
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <td align="left" valign="top" class="logo" style="color:#fff ;padding:40px 0">
+                        <a href="http://nejoumexpress.net"> <img alt="logo"
+                                                                 src="https://nejoumexpress.net/images/Logo Color.png"
+                                                                 width="290"
+                                                                 height="106"> </a>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellPadding="0" cellSpacing="0" id="table-content2"
+                   style="padding:0 16px; max-width: 600px" width="100%">
+                <tbody>
+                <tr>
+                    <td align="left" bgcolor="#ffffff" class="content top"
+                        style="padding:8px 20px;border-radius:8px 8px 0 0" valign="top">
+                        <h1 class="email-title" style="line-height: 1.8; color:rgba(0, 0, 0, 0.8)">
+                            Contact us Form
+                        </h1>
+                        <h3 class="p1" style="margin-top:36px;margin-bottom:16px;color:rgba(0, 0, 0, 0.8)">
+                            Contact Details:
+                        </h3>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <table border="0" cellPadding="0" cellSpacing="0" id="table-content3"
+                   style="padding:0 16px; max-width:600px" width="100%">
+                <tbody>
+                <tr>
+                    <td align="left" bgcolor="#ffffff" class="content bottom"
+                        style="padding:8px 20px;border-radius:0 0 8px 8px">
+                        <table border="0" cellPadding="0" cellSpacing="0" width="100%">
                             <tbody>
                             <tr>
-                                <td valign="top" width="40">&nbsp;</td>
-                                <td>
-                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                        <tbody>
-                                        <tr>
-                                            <!-- Spacing -->
-                                            <td height='50' class="spechide"></td>
-                                        </tr>
-                                        <tr>
-                                            <td class='movableContentContainer ' valign='top'>
-                                                <!-- Content -->
-                                                <div class="movableContent"
-                                                     style="border: 0px; padding-top: 0px; position: relative;">
-                                                    <h2>
-                                                        Thank you for contacting us
-                                                    </h2>
-
-                                                    We have received your message, we will get back to you soon.
-                                                </div>
-
-                                                <!-- Footer -->
-
-                                                <div class="movableContent"
-                                                     style="border: 0px; padding-top: 0px; position: relative;">
-                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                                        <tbody>
-                                                        <tr>
-                                                            <td height='65'>
-                                                        </tr>
-                                                        <tr>
-                                                            <td style='border-bottom:1px solid #DDDDDD;'></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td height='25'></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>
-                                                                <table width="100%" border="0" cellspacing="0"
-                                                                       cellpadding="0">
-                                                                    <tbody>
-                                                                    <tr>
-                                                                        <td valign="top" class="specbundle">
-                                                                            <div class="contentEditableContainer contentTextEditable">
-                                                                                <div class="contentEditable">
-                                                                                    <a href="{{ route('home') }}">
-                                                                                        <img width="150" height="50"  src="{{ asset('images/Logo Color.png') }}"
-                                                                                             alt="nejoumexpress.net">
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </td>
-                                                                        <td valign="top" width="30" class="specbundle">
-                                                                            &nbsp;
-                                                                        </td>
-                                                                        <td valign="top" class="specbundle">&nbsp;</td>
-                                                                    </tr>
-                                                                    </tbody>
-                                                                </table>
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td height='60'></td>
-                                                        </tr>
-                                                        </tbody>
-                                                    </table>
-
-                                                </div>
-
-                                            </td>
-                                        </tr>
-                                        </tbody>
-                                    </table>
+                                <td align="left">
+                                    <p style="line-height: 1.8 ;color:rgba(0, 0, 0, 0.8);margin-top: 0">
+                                        Name: {{ $contact->name }}
+                                    </p>
                                 </td>
-                                <td valign="top" width="40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <p style="line-height: 1.8 ;color:rgba(0, 0, 0, 0.8);margin-top: 0">
+                                        Email: {{ $contact->email }}
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <p style="line-height: 1.8 ;color:rgba(0, 0, 0, 0.8);margin-top: 0">
+                                        Phone Number: {{ $contact->phone }}
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <p style="line-height: 1.8 ;color:rgba(0, 0, 0, 0.8);margin-top: 0">
+                                        Subject: {{ $contact->subject }}
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="left">
+                                    <p style="line-height: 1.8 ;color:rgba(0, 0, 0, 0.8);margin-top: 0">
+                                        Message: {{ $contact->message }}
+                                    </p>
+                                </td>
                             </tr>
                             </tbody>
                         </table>
@@ -272,6 +99,5 @@
     </tr>
     </tbody>
 </table>
-
 </body>
 </html>

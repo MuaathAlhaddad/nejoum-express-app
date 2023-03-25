@@ -14,11 +14,11 @@ class ContactController extends Controller
     {
         $args = $request->only( [ 'name', 'email', 'phone', 'subject', 'message' ] );
 
-        Contact::create( $args );
+        $contact = Contact::create( $args );
 
-        $adminEmail = config('mail.from.address');
+        $adminEmail = config( 'mail.from.address' );
 
-        Mail::to( $adminEmail )->send( new ContactMail() );
+        Mail::to( $adminEmail )->send( new ContactMail( $contact ) );
 
         return json_encode( [
                 'success' => true,
