@@ -21,9 +21,9 @@
                                     <img src={{ asset("images/icons/warehouses.png")}} alt="">
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-title-large"><span class="service-title-large-number">01</span><a href="{{ route('services') }}">Warehousing</a></h3>
+                                    <h3 class="service-title-large"><span class="service-title-large-number">01</span><a href="{{ route('services.warehousing') }}">Warehousing</a></h3>
                                     <p>Our warehousing services are designed to be always with a high capacity to include the new cars received everyday.</p>
-                                    <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
+                                    <a href="{{ route('services.warehousing') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -35,9 +35,9 @@
                                     <img src={{ asset("images/icons/car_loading.png")}} alt="">
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-title-large"><span class="service-title-large-number">02</span><a href="{{ route('services') }}">Car Loading</a></h3>
+                                    <h3 class="service-title-large"><span class="service-title-large-number">02</span><a href="{{ route('services.car_loading') }}">Car Loading</a></h3>
                                     <p>We provide professional car loading services throughout our experienced team.</p>
-                                    <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
+                                    <a href="{{ route('services.car_loading') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -49,9 +49,9 @@
                                     <img src={{ asset("images/icons/pic6.png")}} alt="">
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-title-large"><span class="service-title-large-number">03</span><a href="{{ route('services') }}">NAJ Booking</a></h3>
+                                    <h3 class="service-title-large"><span class="service-title-large-number">03</span><a href="{{ route('services.naj_booking') }}">NAJ Booking</a></h3>
                                     <p>We manage your bookings with shipping lines to bring the most recent booking dates.</p>
-                                    <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
+                                    <a href="{{ route('services.naj_booking') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -63,10 +63,10 @@
                                     <img src={{ asset("images/icons/car_wrapping.png")}} alt="">
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-title-large"><span class="service-title-large-number">04</span><a href="{{ route('services') }}">Car Wrapping</a></h3>
+                                    <h3 class="service-title-large"><span class="service-title-large-number">04</span><a href="{{ route('services.custom_clearance') }}">Car Wrapping</a></h3>
                                     <p>We provide extra safety and protection measures to the shipped vehicles with car wrapping services. (Special services for wrapping classic cars and luxury cars.)
                                     </p>
-                                    <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
+                                    <a href="{{ route('services.custom_clearance') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
                         </div>
@@ -78,9 +78,9 @@
                                     <img src={{ asset("images/icons/pic2.png")}} alt="">
                                 </div>
                                 <div class="service-content">
-                                    <h3 class="service-title-large"><span class="service-title-large-number">05</span><a href="{{ route('services') }}">Ocean Freight</a></h3>
+                                    <h3 class="service-title-large"><span class="service-title-large-number">05</span><a href="{{ route('services.ocean_freight') }}">Ocean Freight</a></h3>
                                     <p>We provide Ocean freight services sending your vehicles to the Middle East and worldwide destinations.</p>
-                                    <a href="{{ route('services') }}" class="site-button-2">View Detail</a>
+                                    <a href="{{ route('services.ocean_freight') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
                         </div>
