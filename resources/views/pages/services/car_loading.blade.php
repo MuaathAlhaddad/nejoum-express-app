@@ -33,11 +33,6 @@
                         <div class="tw-why-choose-left">
                             <strong>Are you looking for a great team to load your second hand vehicles into a container? Look no further than our loading service. We are professionally
                                     trained and experienced in loading cars safely and efficiently. Plus, we have a great track record – no damaged goods or missed deadlines!</strong>
-                            <div class="tw-why-choose-left-bottom">
-                                <div class="sign-font">
-                                    <span>Signature</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
 

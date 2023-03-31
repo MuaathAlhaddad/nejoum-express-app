@@ -34,11 +34,6 @@
                                     for ways to save money on their car purchases. They may not have the money to buy a new car outright, so they look for good deals on used cars. Our warehousing services provide a valuable
                                     service to our customers. We allow them to purchase their vehicles without having to worry about where they will store them. This is a great convenience for customers, and it helps to keep
                                     the prices of used cars down.</strong>
-                            <div class="tw-why-choose-left-bottom">
-                                <div class="sign-font">
-                                    <span>Signature</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
 

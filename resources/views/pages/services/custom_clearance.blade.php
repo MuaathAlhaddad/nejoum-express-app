@@ -33,11 +33,6 @@
                         <div class="tw-why-choose-left">
                             <strong>We offer customer clearance services for vehicles titles and customs. We help the customer with all the paperwork and make sure everything is in order. We make it
                                     easy for the customer to get their vehicle cleared and help them avoid any delays or problems.</strong>
-                            <div class="tw-why-choose-left-bottom">
-                                <div class="sign-font">
-                                    <span>Signature</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
 

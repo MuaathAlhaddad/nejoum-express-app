@@ -33,11 +33,6 @@
                             <strong>If you are looking for a vessel to book with a shipping line, our booking benefit services can help. We work with many companies and can provide you with
                                     a diverse range of options for any destination. We also offer the best booking rates and terms to help you get the most out of your shipping experience.
                                     Contact us today to learn more about our shipping line booking benefit services.</strong>
-                            <div class="tw-why-choose-left-bottom">
-                                <div class="sign-font">
-                                    <span>Signature</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
 

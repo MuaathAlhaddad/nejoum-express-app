@@ -33,11 +33,6 @@
                             <strong>We offer ocean freight services that are perfect for transporting containerized cargo loaded onto vessels. We have a wide range of vessels available,
                                     from small ships to large cargo carriers, so we can accommodate any size load. We also have a team of experienced maritimeprofessionals who can help with
                                     the loading and unloading of your cargo, as well as provide guidance on the best route to take for your shipping needs.</strong>
-                            <div class="tw-why-choose-left-bottom">
-                                <div class="sign-font">
-                                    <span>Signature</span>
-                                </div>
-                            </div>
                         </div>
                     </div>
 
