@@ -42,12 +42,12 @@
                                 <li>
                                     <i class="fa fa-angle-right"></i>
                                     <strong>Speed:</strong>
-                                    Providing vehicle transportation with the highest possible pace from all the auctions straight to our warehouses.
+                                    Providing vehicle transportation at the highest possible pace from all the auctions straight to our warehouses.
                                 </li>
                                 <li>
                                     <i class="fa fa-angle-right"></i>
                                     <strong>Precision:</strong>
-                                    High precision in documenting the status of the cars once being towed from the auction.
+                                    High precision in documenting the status of the cars once they were towed from the auction.
                                 </li>
                                 <li>
                                     <i class="fa fa-angle-right"></i>

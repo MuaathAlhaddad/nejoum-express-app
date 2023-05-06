@@ -15,7 +15,7 @@
                                 <a href="{{ route('home') }}"><img src="{{ asset('images/Logo Color.png') }}" alt=""></a>
                             </div>
                             <p>Loading Full Service
-                               We have a strong system for the clients that covers all their needs.
+                               We have a strong system for our clients that covers all their needs.
                                Stay updated regarding cars and containers through the application.</p>
                             <ul class="social-icons">
                                 <li><a href="https://www.facebook.com/nejoumexpress" class="fa fa-facebook"></a></li>

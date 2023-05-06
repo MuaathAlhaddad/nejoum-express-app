@@ -30,7 +30,7 @@
                'alignment' => 'left'
                ])
                         <div class="tw-why-choose-left">
-                            <strong>Second hand vehicles, cars, and warehouse services are an exciting business. This is because there is a great demand for these products and services. There are many people who are looking
+                            <strong>Second-hand vehicles, cars, and warehouse services are an exciting business. This is because there is a great demand for these products and services. There are many people who are looking
                                     for ways to save money on their car purchases. They may not have the money to buy a new car outright, so they look for good deals on used cars. Our warehousing services provide a valuable
                                     service to our customers. We allow them to purchase their vehicles without having to worry about where they will store them. This is a great convenience for customers, and it helps to keep
                                     the prices of used cars down.</strong>

@@ -7,7 +7,7 @@
 
         @include('components.hero-section', ['title' => 'About Us', 'breadcrumb' => 'About Us', 'banner' => 'about-page.png'])
 
-        @include('components.about.mission-vision', ['title' => 'Vision', 'content' => 'At Nejoum Express our dedication to quality, safety, and reliability, we aim to revolutionize the container loading and vehicles logistics industry, providing our customers with the upscale class of service and driving growth and prosperity for our employees and stakeholders.'])
+        @include('components.about.mission-vision', ['title' => 'Vision', 'content' => 'With Nejoum Express our dedication to quality, safety, and reliability, we aim to revolutionize the container loading and vehicle logistics industry by providing our customers with an upscale class of service and driving growth and prosperity for our employees and stakeholders.'])
 
         @include('components.about.mission-vision', ['title' => 'Mission', 'content' => 'Through our commitment to excellence in customer service, safety, and sustainability, we aim to build lasting relationships with our clients, maintaining trust and becoming their main provider for all their container loading and vehicles’ logistics needs.'])
 
