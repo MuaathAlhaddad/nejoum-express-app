@@ -22,7 +22,7 @@
                                 </div>
                                 <div class="service-content">
                                     <h3 class="service-title-large"><span class="service-title-large-number">01</span><a href="{{ route('services.warehousing') }}">Warehousing</a></h3>
-                                    <p>Our warehousing services are designed to be always with a high capacity to include the new cars received everyday.</p>
+                                    <p>Our warehousing services are designed to always have a high capacity to accommodate the new cars that come in every day.</p>
                                     <a href="{{ route('services.warehousing') }}" class="site-button-2">View Detail</a>
                                 </div>
                             </div>
