@@ -33,7 +33,7 @@
 
                             <li><a href="{{ route('contact') }}">Contact</a></li>
 
-                            <li><a href="https://customers.nejoum.net/login">Customer Login</a></li>
+                            <li><a href="https://customers.nejoum.net/login" target=”_blank”>Customer Login</a></li>
 
                         </ul>
 
