@@ -45,7 +45,7 @@
                             <div class="header-nav-call-section">
                                 <div class="detail">
                                     <span class="title">Call our number</span>
-                                    <span><a href="tel:+15052899797">+15052899797</a></span>
+                                    <span><a href="tel:+17344963761">+1-734-496-3761</a></span>
                                 </div>
                                 <div class="media">
                                     <img src="{{asset("images/call.png")}}" alt="#">
